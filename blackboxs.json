@@ -1,0 +1,855 @@
+[
+    {
+        "Name": "firstBox", 
+        "groups": [
+            {
+                "chance": "70", 
+                "items": [
+                    {
+                        "dropChance": "1.4", 
+                        "itemID": "163", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "5", 
+                        "itemID": "134", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "2", 
+                        "itemID": "433", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "6", 
+                        "itemID": "140", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "1", 
+                "type": "Armor"
+            }, 
+            {
+                "chance": "100", 
+                "items": [
+                    {
+                        "dropChance": "10", 
+                        "itemID": "410058", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "3"
+                    }, 
+                    {
+                        "dropChance": "10", 
+                        "itemID": "410064", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "3"
+                    }, 
+                    {
+                        "dropChance": "10", 
+                        "itemID": "410066", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "3"
+                    }, 
+                    {
+                        "dropChance": "10", 
+                        "itemID": "810146", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "3"
+                    }, 
+                    {
+                        "dropChance": "10", 
+                        "itemID": "810145", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "3"
+                    }, 
+                    {
+                        "dropChance": "5", 
+                        "itemID": "410325", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "3"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "2", 
+                "type": "Consumables"
+            }, 
+            {
+                "chance": "50", 
+                "items": [
+                    {
+                        "dropChance": "40", 
+                        "itemID": "1680", 
+                        "rangeFrom": "5", 
+                        "rangeTo": "15"
+                    }, 
+                    {
+                        "dropChance": "10", 
+                        "itemID": "880", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "5"
+                    }, 
+                    {
+                        "dropChance": "5", 
+                        "itemID": "882", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "3"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "1", 
+                "type": "Money"
+            }, 
+            {
+                "chance": "100.0", 
+                "items": [
+                    {
+                        "dropChance": "15", 
+                        "itemID": "810174", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "2"
+                    }, 
+                    {
+                        "dropChance": "10", 
+                        "itemID": "410019", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "3", 
+                        "itemID": "810004", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "6", 
+                        "itemID": "810098", 
+                        "rangeFrom": "2", 
+                        "rangeTo": "4"
+                    }, 
+                    {
+                        "dropChance": "3", 
+                        "itemID": "210021", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "2"
+                    }, 
+                    {
+                        "dropChance": "3", 
+                        "itemID": "210011", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "2"
+                    }, 
+                    {
+                        "dropChance": "3", 
+                        "itemID": "208", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "5"
+                    }, 
+                    {
+                        "dropChance": "10", 
+                        "itemID": "856", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "20", 
+                        "itemID": "810170", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "3"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "5", 
+                "type": "Loot"
+            }
+        ]
+    }, 
+    {
+        "Name": "QUEST_REWARD_1", 
+        "groups": [
+            {
+                "chance": "100.0", 
+                "items": [
+                    {
+                        "dropChance": "20", 
+                        "itemID": "24", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "80", 
+                        "itemID": "636", 
+                        "rangeFrom": "10", 
+                        "rangeTo": "12"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "1", 
+                "type": "Loot"
+            }
+        ]
+    }, 
+    {
+        "Name": "QUEST_REWARD_2", 
+        "groups": [
+            {
+                "chance": "100.0", 
+                "items": [
+                    {
+                        "dropChance": "30", 
+                        "itemID": "1684", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "70", 
+                        "itemID": "410075", 
+                        "rangeFrom": "10", 
+                        "rangeTo": "10"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "1", 
+                "type": "Loot"
+            }
+        ]
+    }, 
+    {
+        "Name": "QUEST_REWARD_7437", 
+        "groups": [
+            {
+                "chance": "100.0", 
+                "items": [
+                    {
+                        "dropChance": "1", 
+                        "itemID": "302", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "99", 
+                        "itemID": "410250", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "1", 
+                "type": "Loot"
+            }
+        ]
+    }, 
+    {
+        "Name": "Black_Box2", 
+        "groups": [
+            {
+                "chance": "70", 
+                "items": [
+                    {
+                        "dropChance": "1.0", 
+                        "itemID": "4", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "1.0", 
+                        "itemID": "435", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "2", 
+                        "itemID": "437", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "1", 
+                        "itemID": "415", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "3", 
+                        "itemID": "401", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "5", 
+                        "itemID": "200006", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "1", 
+                "type": "Armor"
+            }, 
+            {
+                "chance": "100", 
+                "items": [
+                    {
+                        "dropChance": "13", 
+                        "itemID": "410058", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "3"
+                    }, 
+                    {
+                        "dropChance": "13", 
+                        "itemID": "410064", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "2"
+                    }, 
+                    {
+                        "dropChance": "13", 
+                        "itemID": "410066", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "2"
+                    }, 
+                    {
+                        "dropChance": "15", 
+                        "itemID": "810146", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "3"
+                    }, 
+                    {
+                        "dropChance": "15", 
+                        "itemID": "810145", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "2"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "2", 
+                "type": "Consumables"
+            }, 
+            {
+                "chance": "50", 
+                "items": [
+                    {
+                        "dropChance": "40", 
+                        "itemID": "1680", 
+                        "rangeFrom": "5", 
+                        "rangeTo": "15"
+                    }, 
+                    {
+                        "dropChance": "10", 
+                        "itemID": "880", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "5"
+                    }, 
+                    {
+                        "dropChance": "5", 
+                        "itemID": "882", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "3"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "1", 
+                "type": "Money"
+            }, 
+            {
+                "chance": "100.0", 
+                "items": [
+                    {
+                        "dropChance": "8", 
+                        "itemID": "810167", 
+                        "rangeFrom": "2", 
+                        "rangeTo": "5"
+                    }, 
+                    {
+                        "dropChance": "2", 
+                        "itemID": "810007", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "3", 
+                        "itemID": "810004", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "15", 
+                        "itemID": "802000", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "3"
+                    }, 
+                    {
+                        "dropChance": "6", 
+                        "itemID": "810098", 
+                        "rangeFrom": "2", 
+                        "rangeTo": "4"
+                    }, 
+                    {
+                        "dropChance": "4", 
+                        "itemID": "826", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "3", 
+                        "itemID": "210016", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "3", 
+                        "itemID": "210006", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "2"
+                    }, 
+                    {
+                        "dropChance": "6", 
+                        "itemID": "403", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "1", 
+                        "itemID": "1620", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "25", 
+                        "itemID": "810170", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "3"
+                    }, 
+                    {
+                        "dropChance": "5", 
+                        "itemID": "700", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "3"
+                    }, 
+                    {
+                        "dropChance": "2", 
+                        "itemID": "410090", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "1", 
+                        "itemID": "1619", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "5", 
+                        "itemID": "810093", 
+                        "rangeFrom": "2", 
+                        "rangeTo": "5"
+                    }, 
+                    {
+                        "dropChance": "5", 
+                        "itemID": "810166", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "20"
+                    }, 
+                    {
+                        "dropChance": "6", 
+                        "itemID": "810169", 
+                        "rangeFrom": "2", 
+                        "rangeTo": "5"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "5", 
+                "type": "Loot"
+            }
+        ]
+    }, 
+    {
+        "Name": "Black_Box3", 
+        "groups": [
+            {
+                "chance": "70", 
+                "items": [
+                    {
+                        "dropChance": "2", 
+                        "itemID": "433", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "6", 
+                        "itemID": "140", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "1.4", 
+                        "itemID": "110280", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "1.4", 
+                        "itemID": "410332", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "1.4", 
+                        "itemID": "110285", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "1.4", 
+                        "itemID": "410335", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "1.4", 
+                        "itemID": "110281", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "1.4", 
+                        "itemID": "410333", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "1", 
+                "type": "Armor"
+            }, 
+            {
+                "chance": "100", 
+                "items": [
+                    {
+                        "dropChance": "10", 
+                        "itemID": "410058", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "3"
+                    }, 
+                    {
+                        "dropChance": "10", 
+                        "itemID": "410066", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "3"
+                    }, 
+                    {
+                        "dropChance": "10", 
+                        "itemID": "810146", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "3"
+                    }, 
+                    {
+                        "dropChance": "5", 
+                        "itemID": "410325", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "3"
+                    }, 
+                    {
+                        "dropChance": "5", 
+                        "itemID": "410339", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "3"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "2", 
+                "type": "Consumables"
+            }, 
+            {
+                "chance": "50", 
+                "items": [
+                    {
+                        "dropChance": "40", 
+                        "itemID": "1680", 
+                        "rangeFrom": "5", 
+                        "rangeTo": "10"
+                    }, 
+                    {
+                        "dropChance": "10", 
+                        "itemID": "880", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "5"
+                    }, 
+                    {
+                        "dropChance": "5", 
+                        "itemID": "882", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "3"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "1", 
+                "type": "Money"
+            }, 
+            {
+                "chance": "100.0", 
+                "items": [
+                    {
+                        "dropChance": "8", 
+                        "itemID": "810174", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "2"
+                    }, 
+                    {
+                        "dropChance": "5", 
+                        "itemID": "484", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "3", 
+                        "itemID": "810004", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "6", 
+                        "itemID": "810096", 
+                        "rangeFrom": "2", 
+                        "rangeTo": "4"
+                    }, 
+                    {
+                        "dropChance": "3", 
+                        "itemID": "208", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "5"
+                    }, 
+                    {
+                        "dropChance": "10", 
+                        "itemID": "856", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "20", 
+                        "itemID": "810170", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "3"
+                    }, 
+                    {
+                        "dropChance": "20", 
+                        "itemID": "810163", 
+                        "rangeFrom": "3", 
+                        "rangeTo": "10"
+                    }, 
+                    {
+                        "dropChance": "3", 
+                        "itemID": "1684", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "1", 
+                        "itemID": "207", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "3", 
+                        "itemID": "715", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "5"
+                    }, 
+                    {
+                        "dropChance": "3", 
+                        "itemID": "700", 
+                        "rangeFrom": "3", 
+                        "rangeTo": "5"
+                    }, 
+                    {
+                        "dropChance": "3", 
+                        "itemID": "824", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "5", 
+                "type": "Loot"
+            }
+        ]
+    }, 
+    {
+        "Name": "Black_Box4", 
+        "groups": [
+            {
+                "chance": "100.0", 
+                "items": [
+                    {
+                        "dropChance": "30", 
+                        "itemID": "1684", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "70", 
+                        "itemID": "410075", 
+                        "rangeFrom": "10", 
+                        "rangeTo": "10"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "1", 
+                "type": "Loot"
+            }
+        ]
+    }, 
+    {
+        "Name": "Black_Box5", 
+        "groups": [
+            {
+                "chance": "100.0", 
+                "items": [
+                    {
+                        "dropChance": "30", 
+                        "itemID": "1684", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "70", 
+                        "itemID": "410075", 
+                        "rangeFrom": "10", 
+                        "rangeTo": "10"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "1", 
+                "type": "Loot"
+            }
+        ]
+    }, 
+    {
+        "Name": "Black_Box6", 
+        "groups": [
+            {
+                "chance": "100.0", 
+                "items": [
+                    {
+                        "dropChance": "30", 
+                        "itemID": "1684", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "70", 
+                        "itemID": "410075", 
+                        "rangeFrom": "10", 
+                        "rangeTo": "10"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "1", 
+                "type": "Loot"
+            }
+        ]
+    }, 
+    {
+        "Name": "Black_Box7", 
+        "groups": [
+            {
+                "chance": "100.0", 
+                "items": [
+                    {
+                        "dropChance": "30", 
+                        "itemID": "1684", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "70", 
+                        "itemID": "410075", 
+                        "rangeFrom": "10", 
+                        "rangeTo": "10"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "1", 
+                "type": "Loot"
+            }
+        ]
+    }, 
+    {
+        "Name": "Black_Box8", 
+        "groups": [
+            {
+                "chance": "100.0", 
+                "items": [
+                    {
+                        "dropChance": "30", 
+                        "itemID": "1684", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "70", 
+                        "itemID": "410075", 
+                        "rangeFrom": "10", 
+                        "rangeTo": "10"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "1", 
+                "type": "Loot"
+            }
+        ]
+    }, 
+    {
+        "Name": "Black_Box9", 
+        "groups": [
+            {
+                "chance": "100.0", 
+                "items": [
+                    {
+                        "dropChance": "30", 
+                        "itemID": "1684", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "70", 
+                        "itemID": "410075", 
+                        "rangeFrom": "10", 
+                        "rangeTo": "10"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "1", 
+                "type": "Loot"
+            }
+        ]
+    }, 
+    {
+        "Name": "Black_Box10", 
+        "groups": [
+            {
+                "chance": "100.0", 
+                "items": [
+                    {
+                        "dropChance": "30", 
+                        "itemID": "1684", 
+                        "rangeFrom": "1", 
+                        "rangeTo": "1"
+                    }, 
+                    {
+                        "dropChance": "70", 
+                        "itemID": "410075", 
+                        "rangeFrom": "10", 
+                        "rangeTo": "10"
+                    }
+                ], 
+                "rangeFrom": "1", 
+                "rangeTo": "1", 
+                "type": "Loot"
+            }
+        ]
+    }
+]
